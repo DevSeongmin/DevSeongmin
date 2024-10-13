@@ -6,7 +6,7 @@
 
 ## 💻 Introduce
 <a href="https://smhdev.notion.site/DevSeongMin-c3753efed06c4a8eb6c0d6c571680849?pvs=74" target="_blank">
-    Click Me😀
+    <h3>Click Me😀</h3>
 </a>
 
 <br>
