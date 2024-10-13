@@ -5,8 +5,8 @@
 
 
 ## 💻 Introduce
-<a href="[https://kahee430.tistory.com/](https://smhdev.notion.site/DevSeongMin-c3753efed06c4a8eb6c0d6c571680849?pvs=74)" target="_blank">
-    <img src="https://img.shields.io/badge/NOTION-EE4E4E?style=for-the-badge&logo=notion&logoColor=white"/>
+<a href="https://smhdev.notion.site/DevSeongMin-c3753efed06c4a8eb6c0d6c571680849?pvs=74" target="_blank">
+    Click Me😀
 </a>
 
 <br>
@@ -27,6 +27,7 @@
   <h3>Web BackEnd</h3>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-02569B?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/mockito-339933?style=for-the-badge&logo=mockito&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
@@ -34,6 +35,10 @@
   <img src="https://img.shields.io/badge/jpa-A86454?style=for-the-badge&logo=jpa&logoColor=white">
   <img src="https://img.shields.io/badge/querydsl-A86454?style=for-the-badge&logo=querydsl&logoColor=white">
   <img src="https://img.shields.io/badge/mybatis-010101?style=for-the-badge&logo=mybatis&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
+  
+
   </div>
 </div>
 
@@ -63,6 +68,9 @@
   <img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-47A248?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+
   
 </div>
 
@@ -70,22 +78,21 @@
 <div style="display: flex;">
   <h3>Docs</h3>
   
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/restdocs-339933?style=for-the-badge&logo=restdocs&logoColor=white">
   <img src="https://img.shields.io/badge/swagger-0769AD?style=for-the-badge&logo=swagger&logoColor=white">
   
 </div>
-
-
-
 
 <br>
 
 ## 🔧 Tool
 
 <div style="display: flex;">
+    
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/jira-4053D6?style=for-the-badge&logo=jira&logoColor=white">
+
 </div>
 
 
