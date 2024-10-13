@@ -5,9 +5,11 @@
 
 
 ## 💻 Introduce
-<a href="https://smhdev.notion.site/DevSeongMin-c3753efed06c4a8eb6c0d6c571680849?pvs=74" target="_blank">
-    <h3>Click Me😀</h3>
-</a>
+<h3>
+    <a href="https://smhdev.notion.site/DevSeongMin-c3753efed06c4a8eb6c0d6c571680849?pvs=74" target="_blank">
+        Click Me😀
+    </a>
+</h3>
 
 <br>
 <br>
