@@ -102,6 +102,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SeoungMinHwang&show_icons=true&theme=transparent" style="width: 50%;" />    
+<img src="https://github-readme-stats.vercel.app/api?username=DevSeongmin&show_icons=true&theme=transparent" style="width: 50%;" />    
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qq221qq)](https://solved.ac/qq221qq/)
