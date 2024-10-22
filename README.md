@@ -104,4 +104,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevSeongmin&show_icons=true&theme=transparent" style="width: 50%;" />    
 
+<a href="https://github.com/devSeongMin/">[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devSeongMin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)</a>
+
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qq221qq)](https://solved.ac/qq221qq/)
