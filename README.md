@@ -3,7 +3,7 @@
 </div>
     
 
-
+<!--
 ## 💻 Introduce
 <h3>
     <a href="https://smhdev.notion.site/DevSeongMin-c3753efed06c4a8eb6c0d6c571680849?pvs=74" target="_blank">
@@ -101,6 +101,8 @@
 <br>
 
 <br>
+
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevSeongmin&show_icons=true&theme=transparent" style="width: 50%;" />    
 
